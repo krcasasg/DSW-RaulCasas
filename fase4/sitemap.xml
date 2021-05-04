@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>index.html</loc>
+</url>
+<url>
+<loc>tema1.html</loc>
+</url>
+<url>
+<loc>tema2.html</loc>
+</url>
+<url>
+<loc>recurso1.html</loc>
+</url>
+<url>
+<loc>recurso2.html</loc>
+</url>
+<url>
+<loc>actividad1.html</loc>
+</url>
+<url>
+<loc>actividad2.html</loc>
+</url>
+<url>
+<loc>autor.html</loc>
+</url>
+</urlset>
